@@ -1,0 +1,4 @@
+# 테스트용 옵션
+spring:
+  datasource:
+    url: jdbc:mariadb://goottjason.cafe24.com:3306/goottjason?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
